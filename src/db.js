@@ -5,7 +5,7 @@ import {
     PASSWORD,
     DATABASE,
     PORT_DB
-} from '../config.js';
+} from './config.js';
 
 console.log(process.env.HOST)
 
